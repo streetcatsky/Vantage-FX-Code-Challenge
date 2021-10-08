@@ -1,0 +1,32 @@
+/* global font family */
+
+/* get the required local files */
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto-Regular.ttf');
+}
+
+*{
+  box-sizing:border-box;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+html {
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+
+html::-webkit-scrollbar {
+  width: 0px; /* For Chrome, Safari, and Opera */
+}
+
+html, body,#root {
+  height: 100%;
+}
+
+.MuiTouchRipple-root{
+  display:none
+}

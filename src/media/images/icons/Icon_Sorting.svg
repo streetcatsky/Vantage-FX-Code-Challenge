@@ -1,0 +1,5 @@
+<svg id="Icon_Sorting" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="bk" width="36" height="36" fill="none"/>
+  <path id="down" d="M0,0H9L4.5,7Z" transform="translate(13 20)" fill="#fff"/>
+  <path id="up" d="M0,7H9L4.5,0Z" transform="translate(13 9)" fill="#fff"/>
+</svg>
